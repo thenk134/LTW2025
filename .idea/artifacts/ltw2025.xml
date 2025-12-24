@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ltw2025">
+    <output-path>$PROJECT_DIR$/out/artifacts/ltw2025</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="LTW2025/web/Web" />
+    </root>
+  </artifact>
+</component>
